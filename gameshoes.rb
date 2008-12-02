@@ -1,3 +1,4 @@
+#nonsense comment
 Shoes.setup do
   source "http://gems.github.com"
   gem 'Soleone-gamefaqs'
